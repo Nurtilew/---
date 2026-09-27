@@ -1,0 +1,6 @@
+{
+  "name": "Сайт производителя удобрений «ЭкоРост»",
+  "description": "Инновационные удобрения для максимального урожая. Экологичность, безопасность, высокая эффективность.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
